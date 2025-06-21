@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Water Tracker</string>
+    <string name="widget_description">A widget that counts how many cups of
+    water you have drunk today. Resets after 10 cups or a new day.</string>
+</resources>
